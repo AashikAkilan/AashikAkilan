@@ -1,4 +1,4 @@
-# Hi, I'm Aashik Akilan 
+# Hi, I'm Aashik Akilan 👋
 
 ### MCA Graduate | Python Backend Developer | AI/ML Enthusiast
 
@@ -13,19 +13,19 @@ I'm an MCA graduate interested in **Python backend development and machine learn
 * **Tools:** Git, GitHub, Postman
 * **Other:** OpenCV
 
-###  Featured Projects
+### 🚀 Featured Projects
 
-*  **Machine Learning-Based Dynamic Load Balancing in Cloud Computing**
+* 🤖 **Machine Learning-Based Dynamic Load Balancing in Cloud Computing**
 
   * Hybrid LSTM + DQN approach for dynamic VM allocation.
-*  **FastAPI REST API Projects**
+* ⚡ **FastAPI REST API Projects**
 
   * Backend APIs using FastAPI, Pydantic and REST principles.
-*  **Computer Vision Projects**
+* 👁️ **Computer Vision Projects**
 
   * OpenCV and MediaPipe-based real-time applications.
 
-### Currently Learning
+### 📚 Currently Learning
 
 * Advanced FastAPI
 * REST API development
@@ -33,15 +33,14 @@ I'm an MCA graduate interested in **Python backend development and machine learn
 * Backend development
 * Machine Learning deployment
 
-### Career Goal
+### 🎯 Career Goal
 
 Looking for opportunities as a **Python Backend Developer / Software Developer / AI-ML Intern** where I can apply my skills and continue learning through real-world projects.
 
-### Connect With Me
+### 📫 Connect With Me
 
 * GitHub: [AashikAkilan](https://github.com/AashikAkilan)
-* LinkedIn: [Aashik Akilan](https://www.linkedin.com/in/aashik-akilan-1496a6339?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
+* LinkedIn: [Aashik Akilan](https://www.linkedin.com/in/aashik-akilan-1496a6339?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 ---
 
-Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
